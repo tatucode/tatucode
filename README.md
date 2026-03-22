@@ -1,8 +1,9 @@
 # 👋 Fala, eu sou o Pedro Victor (Tatucode)
 
-🎓 Estudante de Engenharia de Software
-🔐 Focado em Cibersegurança
-💻 Explorando Python, automação e hacking ético
+- 🎓 Estudante de Engenharia de Software
+- 🔐 Focado em Cibersegurança
+- 💻 Explorando Python, automação e hacking ético
+
 
 
 ## 🚀 Sobre mim
@@ -20,6 +21,7 @@ Acredito muito no processo e na evolução constante.
 Não estou aqui só para aprender,estou aqui para construir.
 
 
+
 ## 🧪 Projetos em desenvolvimento
 
 ### 🔎 PentestFlow
@@ -31,6 +33,7 @@ Automatizar processos de pentest, integrando ferramentas e facilitando análises
 Status: 🚧 Em desenvolvimento
 
 
+
 ## 📚 Atualmente estudando
 
 - 🐍 Python (automação e backend)
@@ -38,6 +41,8 @@ Status: 🚧 Em desenvolvimento
 - ☁️ Cloud (em especial Azure)
 - 🎯 Prática em plataformas como HTB (Hack The Box)
 
+
+![1000202000](https://github.com/user-attachments/assets/753f008a-edb3-4998-83af-bd27681ba114)
 
 ## 🎯 Objetivo
 
