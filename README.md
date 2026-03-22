@@ -1,6 +1,3 @@
-![1000202000](https://github.com/user-attachments/assets/753f008a-edb3-4998-83af-bd27681ba114)
-
-
 # 👋 Fala, eu sou o Pedro Victor (Tatucode)
 
 - 🎓 Estudante de Engenharia de Software
