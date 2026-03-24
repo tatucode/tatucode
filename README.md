@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre mim
 
-Estou no início da minha jornada na área de tecnologia, com foco em cibersegurança.
+Estou no início da minha jornada na área de TI, com foco em cibersegurança.
 A cada dia venho estudando, praticando e construindo projetos que me aproximam do meu objetivo: me tornar um profissional sólido na área.
 
 Tenho interesse principalmente em:
@@ -17,21 +17,9 @@ Tenho interesse principalmente em:
 - 🛡️ Segurança ofensiva (Red Team)
 - 🤖 Automação com Python
 
+
 Acredito muito no processo e na evolução constante. 
 Não estou aqui só para aprender,estou aqui para construir.
-
-
-
-## 🧪 Projetos em desenvolvimento
-
-### 🔎 PentestFlow
-Ferramenta de automação de testes de segurança desenvolvida em Python.
-
-Objetivo:
-Automatizar processos de pentest, integrando ferramentas e facilitando análises de segurança.
-
-Status: 🚧 Em desenvolvimento
-
 
 
 ## 📚 Atualmente estudando
