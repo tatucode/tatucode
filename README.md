@@ -1,5 +1,5 @@
 
-<img width="750" height="500" alt="github_capa" src="https://github.com/user-attachments/assets/2cb013c2-7f65-4258-b2e8-53fa5cdbc7a5" />
+<img width="9000" height="450" alt="github_capa" src="https://github.com/user-attachments/assets/2cb013c2-7f65-4258-b2e8-53fa5cdbc7a5" />
 
 # 👋 Fala, eu sou o Pedro Victor (Tatucode)
 
