@@ -41,5 +41,5 @@ Me tornar um profissional em cibersegurança, com forte base técnica, prática 
 
 ## 📫 Contato
 
-- LinkedIn: www.linkedin.com/in/pedro-victor-pereira-alves-a57078386
+- LinkedIn: https://www.linkedin.com/in/victortech01/
 - Email: pedroalves.tech@outlook.com
