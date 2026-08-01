@@ -41,7 +41,7 @@
   Conquistar minha primeira oportunidade em Cibersegurança e continuar evoluindo tecnicamente todos os dias, transformando conhecimento em soluções práticas
 
   ## Contato
-  - Linkdin: https://www.linkedin.com/in/pedrovictoralves
+  - Linkdin: https://www.linkedin.com/in/pedropereiraalves
   - Email: pedroalves.tech@outlook.com
   
 
