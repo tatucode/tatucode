@@ -1,42 +1,48 @@
-# 👋 Fala, eu sou o Pedro Victor (Tatucode)
+# Olá! Eu sou o Pedro Victor (Tatucode)
+- Estudante de Engenharia de Software
+- Aspirante a Analista de Cibersegurança
+- Desenvolvedor Python | Linux | Segurança da Informação
 
-- 🎓 Estudante de Engenharia de Software
-- Focado em Cibersegurança
-- 💻 Explorando Python, automação e hacking ético
+  ## Sobre mim
+  Sou um estudante apaixonado por tecnologia e atualmente estou construindo minha carreira em Cibersegurança.
 
+  Acredito que aprender vai muito além de fazer cursos. Por isso, busco aplicar na prática tudo o que estudo através de projetos próprios, laboratórios, CTFs e ambientes de teste.
 
+  Atualmente concentro meus estudos em:
+  - Segurança da Informação
+  - Redes de computadores
+  - Linux
+  - Python para automação
+  - Análise de vulnerabilidades
+  - Hack The Box
+ 
+  ## Projetos
 
-## 🚀 Sobre mim
+  ### File Integrity Checker (Em desenvolvimento)
+  Ferramenta CLI desenvolvida em Python para monitoramento de integridade de arquivos utilizando SHA-256 e SQLite.
 
-Estou no início da minha jornada na área de TI, com foco em cibersegurança.
-A cada dia venho estudando, praticando e construindo projetos que me aproximam do meu objetivo: me tornar um profissional sólido na área.
-
-Tenho interesse principalmente em:
-
-- Pentest (Testes de invasão)
-- 🛡️ Segurança ofensiva (Red Team)
-- Automação com Python
-
-
-Acredito muito no processo e na evolução constante. 
-Não estou aqui só para aprender,estou aqui para construir.
-
-
-## 📚 Atualmente estudando
-
-- Python (automação e backend)
-- Cibersegurança prática
-- Cloud (em especial Azure)
-- Prática em plataformas como HTB (Hack The Box)
-
-
-
-## Objetivo
-
-Me tornar um profissional em cibersegurança, com forte base técnica, prática e capacidade de resolver problemas reais.
+  **Status atual:**
+  - CLI com argparse
+  - Varredura recursiva de diretórios
+  - Geração de hash SHA-256
+  - Armazenamento em SQLite
+  - Upsert para evitar registros duplicados
+  - Validação de permissões (Linux)
 
 
-## 📫 Contato
+  ### Shield.py
+  Ferramenta CLI integra à API do VirusTotal para análise de arquivos e URLs
 
-- LinkedIn: https://www.linkedin.com/in/victortech01/
-- Email: pedroalves.tech@outlook.com
+
+  ### Cybesecurity Journey
+  Registro da minha evolução prática em laboratórios, CTFs, Hack The Box e Homelab
+
+  ## Objetivo
+  Conquistar minha primeira oportunidade em Cibersegurança e continuar evoluindo tecnicamente todos os dias, transformando conhecimento em soluções práticas
+
+  ## Contato
+  - Linkdin: https://www.linkedin.com/in/pedrovictoralves
+  - Email: pedroalves.tech@outlook.com
+  
+
+  
