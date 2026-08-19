@@ -1,6 +1,6 @@
 # Olá! Eu sou o Pedro Victor (Tatucode)
 - Estudante de Engenharia de Software
-- Aspirante a Analista de Cibersegurança
+- Analista de Cibersegurança Júnior
 - Desenvolvedor Python | Linux | Segurança da Informação
 
   ## Sobre mim
@@ -18,30 +18,22 @@
  
   ## Projetos
 
-  ### File Integrity Checker (Em desenvolvimento)
+  ### File Integrity Checker 
   Ferramenta CLI desenvolvida em Python para monitoramento de integridade de arquivos utilizando SHA-256 e SQLite.
-
-  **Status atual:**
-  - CLI com argparse
-  - Varredura recursiva de diretórios
-  - Geração de hash SHA-256
-  - Armazenamento em SQLite
-  - Upsert para evitar registros duplicados
-  - Validação de permissões (Linux)
-
+  Veja o repositório: https://github.com/tatucode/file-integrity-checker
 
   ### Shield.py
   Ferramenta CLI integra à API do VirusTotal para análise de arquivos e URLs
+  Veja o repositório: https://github.com/tatucode/shield.py
 
-
-  ### Cybesecurity Journey
+  ### Cybersecurity Journey
   Registro da minha evolução prática em laboratórios, CTFs, Hack The Box e Homelab
 
   ## Objetivo
   Conquistar minha primeira oportunidade em Cibersegurança e continuar evoluindo tecnicamente todos os dias, transformando conhecimento em soluções práticas
 
   ## Contato
-  - Linkdin: https://www.linkedin.com/in/pedropereiraalves
+  - Linkedin: https://www.linkedin.com/in/pedropereiraalves
   - Email: pedroalves.tech@outlook.com
   
 
