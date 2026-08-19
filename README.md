@@ -20,10 +20,12 @@
 
   ### File Integrity Checker 
   Ferramenta CLI desenvolvida em Python para monitoramento de integridade de arquivos utilizando SHA-256 e SQLite.
+  
   Veja o repositório: https://github.com/tatucode/file-integrity-checker
 
   ### Shield.py
-  Ferramenta CLI integra à API do VirusTotal para análise de arquivos e URLs
+  Ferramenta CLI integra à API do VirusTotal para análise de arquivos e URLs.
+  
   Veja o repositório: https://github.com/tatucode/shield.py
 
   ### Cybersecurity Journey
