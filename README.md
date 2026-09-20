@@ -1,55 +1,14 @@
 <p align="center">
-
-```
-████████╗ █████╗ ████████╗██╗   ██╗ ██████╗ ██████╗ ██████╗ ███████╗
-╚══██╔══╝██╔══██╗╚══██╔══╝██║   ██║██╔════╝██╔═══██╗██╔══██╗██╔════╝
-   ██║   ███████║   ██║   ██║   ██║██║     ██║   ██║██║  ██║█████╗  
-   ██║   ██╔══██║   ██║   ██║   ██║██║     ██║   ██║██║  ██║██╔══╝  
-   ██║   ██║  ██║   ██║   ╚██████╔╝╚██████╗╚██████╔╝██████╔╝███████╗
-   ╚═╝   ╚═╝  ╚═╝   ╚═╝    ╚═════╝  ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝
-```
-
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=600&color=9FEF00&center=true&vCenter=true&width=600&lines=%5Bconnecting+to+localhost%5D...;%5Bauth%5D+access+granted;loading+recon+data" alt="boot sequence" />
+  <img src="assets/terminal-banner.svg" width="100%" alt="terminal boot" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tatucode&label=connections&color=9FEF00&style=flat-square" alt="profile views" />
 </p>
 
-<pre align="center">
-──────────────────────────────────────────────
-</pre>
+### stack completa
 
-```bash
-tatucode@kali:~$ whoami
-pedro victor pereira alves
-
-tatucode@kali:~$ cat status.txt
-> estudante de engenharia de software (estácio)
-> foco: cibersegurança e desenvolvimento de aplicações seguras
-> rota: SOC/Blue Team -> AppSec/DevSecOps
-> conteúdo em @tatucode, tech pra quem tá começando
-
-tatucode@kali:~$ ls -la ~/projects
-drwxr-xr-x  shield.py               scanner de arquivo/url via VirusTotal API
-drwxr-xr-x  file-integrity-checker  monitoramento de integridade via SHA-256
-drwxr-xr-x  profile-card            card de perfil digital, estética HTB
-drwxr-xr-x  cybersecurity-journey   writeups de máquinas do Hack The Box
-
-tatucode@kali:~$ nmap -sV skills
-PORT      STATE  SERVICE
-python    open   proficient
-linux     open   proficient
-git       open   proficient
-nmap      open   learning
-wireshark open   learning
-tcpdump   open   learning
-sql       open   learning
-fastapi   open   learning
-```
+`Python` `Linux` `Git` `Nmap` `Wireshark` `Tcpdump` `SQL/SQLite` `FastAPI` `Kali Linux`
 
 ### projetos
 
@@ -75,9 +34,7 @@ fastapi   open   learning
   <img src="https://raw.githubusercontent.com/tatucode/tatucode/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
-```bash
-tatucode@kali:~$ cat contact.txt
-```
+### contato
 
 <p align="left">
   <a href="https://www.linkedin.com/in/pedropereiraalves/" target="_blank">
@@ -90,17 +47,3 @@ tatucode@kali:~$ cat contact.txt
     <img src="https://img.shields.io/badge/-profile%20card-000000?style=for-the-badge&logo=vercel&logoColor=9FEF00" alt="Profile Card"/>
   </a>
 </p>
-
-```bash
-tatucode@kali:~$ _
-```
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/pedropereiraalves/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://profile-card-eta-ten.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Profile%20Card-9FEF00?style=for-the-badge&logo=vercel&logoColor=black" alt="Profile Card"/>
-  </a>
-</p>
-  
