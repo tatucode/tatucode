@@ -29,12 +29,6 @@ FastAPI         learning
 | 🧭 [`cybersecurity-journey`](https://github.com/tatucode/cybersecurity-journey) | writeups de máquinas do Hack The Box |
 
 
-### `$ ./contribution_grid.sh --animate`
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tatucode/tatucode/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
 ### `$ cat contact.txt`
 
 <p align="left">
