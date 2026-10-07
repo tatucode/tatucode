@@ -1,41 +1,39 @@
-<p align="center">
-  <img src="assets/terminal-banner.svg" width="100%" alt="terminal boot" />
-</p>
+# Olá! Eu sou o Pedro Victor (Tatucode)
+### Estudante de Engenharia de Software
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tatucode&label=connections&color=9FEF00&style=flat-square" alt="profile views" />
-</p>
+### Analista de Cibersegurança Júnior
 
-### `$ pip freeze | grep stack`
+### Desenvolvedor Python | Linux | Segurança da Informação
 
-```
-Python          proficient
-Linux           proficient
-Git             proficient
-Nmap            learning
-Wireshark       learning
-Tcpdump         learning
-SQL/SQLite      learning
-FastAPI         learning
-```
+## Sobre mim
+Sou um estudante apaixonado por tecnologia e atualmente estou construindo minha carreira em Cibersegurança.
 
-### `$ ls -la ~/projects`
+Acredito que aprender vai muito além de fazer cursos. Por isso, busco aplicar na prática tudo o que estudo através de projetos próprios, laboratórios, CTFs e ambientes de teste.
 
-| repo | descrição |
-|---|---|
-| 🛡️ [`shield.py`](https://github.com/tatucode/shield.py) | scanner de arquivo e URL via VirusTotal API, hash SHA-256 |
-| 🔐 [`file-integrity-checker`](https://github.com/tatucode/file-integrity-checker) | monitoramento de integridade de arquivo via hash SHA-256 |
-| 🪪 [`profile-card`](https://github.com/tatucode/profile-card) | card de perfil digital, HTML5/CSS3, estética Hack The Box |
-| 🧭 [`cybersecurity-journey`](https://github.com/tatucode/cybersecurity-journey) | writeups de máquinas do Hack The Box |
+## Atualmente concentro meus estudos em:
 
+- Segurança da Informação
+- Redes de computadores
+- Linux
+- Python para automação
+- Análise de vulnerabilidades
+- Hack The Box
 
-### `$ cat contact.txt`
+## Projetos
+### File Integrity Checker
+Ferramenta CLI desenvolvida em Python para monitoramento de integridade de arquivos utilizando SHA-256 e SQLite.Veja o repositório: https://github.com/tatucode/file-integrity-checker
+Veja o repositório: https://github.com/tatucode/file-integrity-checker
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/pedropereiraalves/" target="_blank">
-    <img src="https://img.shields.io/badge/-linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=9FEF00" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:pedroalves.tech@outlook.com">
-    <img src="https://img.shields.io/badge/-email-000000?style=for-the-badge&logo=outlook&logoColor=9FEF00" alt="Email"/>
-  </a>
-</p>
+### Shield.py
+Ferramenta CLI integra à API do VirusTotal para análise de arquivos e URLs Veja o repositório: https://github.com/tatucode/shield.pyURLs.
+Veja o repositório: https://github.com/tatucode/shield.py
+
+### Cybersecurity Journey
+Registro da minha evolução prática em laboratórios, CTFs, Hack The Box e Homelab
+
+## Objetivo
+Conquistar minha primeira oportunidade em Cibersegurança e continuar evoluindo tecnicamente todos os dias, transformando conhecimento em soluções práticas
+
+## Contato
+- Linkedin: https://www.linkedin.com/in/pedropereiraalves
+- Email: pedroalves.tech@outlook.com
