@@ -21,15 +21,15 @@ Acredito que aprender vai muito além de fazer cursos. Por isso, busco aplicar n
 
 ## Projetos
 ### File Integrity Checker
-Ferramenta CLI desenvolvida em Python para monitoramento de integridade de arquivos utilizando SHA-256 e SQLite.Veja o repositório: https://github.com/tatucode/file-integrity-checker
+Ferramenta CLI desenvolvida em Python para monitoramento de integridade de arquivos utilizando SHA-256 e SQLite.
 Veja o repositório: https://github.com/tatucode/file-integrity-checker
 
 ### Shield.py
-Ferramenta CLI integra à API do VirusTotal para análise de arquivos e URLs Veja o repositório: https://github.com/tatucode/shield.pyURLs.
+Ferramenta CLI integra à API do VirusTotal para análise de arquivos e URLs 
 Veja o repositório: https://github.com/tatucode/shield.py
 
 ### Cybersecurity Journey
-Registro da minha evolução prática em laboratórios, CTFs, Hack The Box e Homelab
+Registro da minha evolução prática em laboratórios, CTFs e Hack The Box
 
 ## Objetivo
 Conquistar minha primeira oportunidade em Cibersegurança e continuar evoluindo tecnicamente todos os dias, transformando conhecimento em soluções práticas
