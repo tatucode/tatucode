@@ -6,7 +6,7 @@
 ### Desenvolvedor Python | Linux | Segurança da Informação
 
 ## Sobre mim
-Sou um estudante apaixonado por tecnologia e atualmente estou construindo minha carreira em Cibersegurança.
+Sou um estudante apaixonado por tecnologia e atualmente estou construindo minha carreira em Cibersegurança, com interesse especial em Segurança ofensiva.
 
 Acredito que aprender vai muito além de fazer cursos. Por isso, busco aplicar na prática tudo o que estudo através de projetos próprios, laboratórios, CTFs e ambientes de teste.
 
